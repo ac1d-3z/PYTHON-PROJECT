@@ -47,3 +47,15 @@ value5 = int(input("Enter first Value: "))
 value6 = int(input("Enter second Value: "))
 product = value5 * value6
 print("The product is:", product)
+
+#11
+value7 = int(input("Enter first Value: "))
+value8 = int(input("Enter second Value: "))
+quotient = value7 / value8
+print("The quotient is:", quotient)
+
+#12
+value9 = int(input("Enter first Value: "))
+value10 = int(input("Enter second Value: "))
+remainder = value9 % value10
+print("The remainder is:", remainder)
